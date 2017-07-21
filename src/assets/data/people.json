@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Test-1",
+    "phone": "9999999999",
+    "address": {
+      "street": "Main Street",
+      "city": "City",
+      "state": "Telangana",
+      "zip": "500082"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Test-2",
+    "phone": "8888888888",
+    "address": {
+      "street": "Main Street-2",
+      "city": "City-1",
+      "state": "Telangana",
+      "zip": "500083"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Test-3",
+    "phone": "7777777777",
+    "address": {
+      "street": "Main Street-3",
+      "city": "City-3",
+      "state": "Telangana",
+      "zip": "500084"
+    }
+  }
+]
